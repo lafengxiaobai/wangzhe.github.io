@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: lafengxiaobai.github.io/wangzhe.github.io/sitemap.xml
+Sitemap: https://wangzhe.github.io/sitemap.xml
